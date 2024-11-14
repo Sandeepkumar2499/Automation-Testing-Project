@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-12T14:14:32 IST" name="Movie Page Test" finished-at="2024-11-12T14:15:04 IST" duration-ms="31263">
+    <groups>
+    </groups>
+    <test started-at="2024-11-12T14:14:32 IST" name="MoviePage Test" finished-at="2024-11-12T14:15:04 IST" duration-ms="31263">
+      <class name="SearchPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SearchPageTest@7ea9e1e2]" started-at="2024-11-12T14:14:33 IST" name="setUp" finished-at="2024-11-12T14:14:43 IST" duration-ms="10851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchPageFunctionality()[pri:1, instance:SearchPageTest@7ea9e1e2]" started-at="2024-11-12T14:14:43 IST" name="testSearchPageFunctionality" finished-at="2024-11-12T14:14:46 IST" duration-ms="2714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchPageFunctionality -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:SearchPageTest@7ea9e1e2]" started-at="2024-11-12T14:14:46 IST" name="setdown" finished-at="2024-11-12T14:14:48 IST" duration-ms="2050" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SearchPageTest@7ea9e1e2]" started-at="2024-11-12T14:14:48 IST" name="setUp" finished-at="2024-11-12T14:14:52 IST" duration-ms="3357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchFunctionalitywithFailureCase()[pri:2, instance:SearchPageTest@7ea9e1e2]" started-at="2024-11-12T14:14:52 IST" name="testSearchFunctionalitywithFailureCase" finished-at="2024-11-12T14:14:53 IST" duration-ms="1778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunctionalitywithFailureCase -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:SearchPageTest@7ea9e1e2]" started-at="2024-11-12T14:14:53 IST" name="setdown" finished-at="2024-11-12T14:14:54 IST" duration-ms="752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+      </class> <!-- SearchPageTest -->
+      <class name="HeaderPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HeaderPageTest@4de4b452]" started-at="2024-11-12T14:14:33 IST" name="setUp" finished-at="2024-11-12T14:14:45 IST" duration-ms="12687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHeaderSectionUi()[pri:1, instance:HeaderPageTest@4de4b452]" started-at="2024-11-12T14:14:45 IST" name="testHeaderSectionUi" finished-at="2024-11-12T14:14:47 IST" duration-ms="1876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeaderSectionUi -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:HeaderPageTest@4de4b452]" started-at="2024-11-12T14:14:47 IST" name="setdown" finished-at="2024-11-12T14:14:49 IST" duration-ms="1768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HeaderPageTest@4de4b452]" started-at="2024-11-12T14:14:49 IST" name="setUp" finished-at="2024-11-12T14:14:53 IST" duration-ms="3945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHeaderSectionFunctionalities()[pri:2, instance:HeaderPageTest@4de4b452]" started-at="2024-11-12T14:14:53 IST" name="testHeaderSectionFunctionalities" finished-at="2024-11-12T14:14:54 IST" duration-ms="1107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHeaderSectionFunctionalities -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:HeaderPageTest@4de4b452]" started-at="2024-11-12T14:14:54 IST" name="setdown" finished-at="2024-11-12T14:14:55 IST" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+      </class> <!-- HeaderPageTest -->
+      <class name="MovieDetailsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MovieDetailsPageTest@6babf3bf]" started-at="2024-11-12T14:14:33 IST" name="setUp" finished-at="2024-11-12T14:14:44 IST" duration-ms="11423" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testMovieDetailsPageHomeUi()[pri:1, instance:MovieDetailsPageTest@6babf3bf]" started-at="2024-11-12T14:14:44 IST" name="testMovieDetailsPageHomeUi" finished-at="2024-11-12T14:14:48 IST" duration-ms="4415" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMovieDetailsPageHomeUi -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:MovieDetailsPageTest@6babf3bf]" started-at="2024-11-12T14:14:48 IST" name="setdown" finished-at="2024-11-12T14:14:49 IST" duration-ms="759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+      </class> <!-- MovieDetailsPageTest -->
+      <class name="AccountPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:AccountPageTest@68c72235]" started-at="2024-11-12T14:14:33 IST" name="setUp" finished-at="2024-11-12T14:14:44 IST" duration-ms="11421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testaccountpageUi()[pri:1, instance:AccountPageTest@68c72235]" started-at="2024-11-12T14:14:44 IST" name="testaccountpageUi" finished-at="2024-11-12T14:14:46 IST" duration-ms="2092" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testaccountpageUi -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:AccountPageTest@68c72235]" started-at="2024-11-12T14:14:46 IST" name="setdown" finished-at="2024-11-12T14:14:48 IST" duration-ms="2127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:AccountPageTest@68c72235]" started-at="2024-11-12T14:14:48 IST" name="setUp" finished-at="2024-11-12T14:14:52 IST" duration-ms="3299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLogOutFunctionality()[pri:2, instance:AccountPageTest@68c72235]" started-at="2024-11-12T14:14:52 IST" name="testLogOutFunctionality" finished-at="2024-11-12T14:14:53 IST" duration-ms="1367" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogOutFunctionality -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:AccountPageTest@68c72235]" started-at="2024-11-12T14:14:53 IST" name="setdown" finished-at="2024-11-12T14:14:54 IST" duration-ms="876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+      </class> <!-- AccountPageTest -->
+      <class name="PopularPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:PopularPageTest@3059cbc]" started-at="2024-11-12T14:14:33 IST" name="setUp" finished-at="2024-11-12T14:14:44 IST" duration-ms="11303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPopularPageUi()[pri:1, instance:PopularPageTest@3059cbc]" started-at="2024-11-12T14:14:44 IST" name="testPopularPageUi" finished-at="2024-11-12T14:14:45 IST" duration-ms="1370" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPopularPageUi -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:PopularPageTest@3059cbc]" started-at="2024-11-12T14:14:45 IST" name="setdown" finished-at="2024-11-12T14:14:49 IST" duration-ms="3589" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+      </class> <!-- PopularPageTest -->
+      <class name="LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:33 IST" name="setUp" finished-at="2024-11-12T14:14:41 IST" duration-ms="8510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginPgUi()[pri:1, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:41 IST" name="testLoginPgUi" finished-at="2024-11-12T14:14:43 IST" duration-ms="1937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPgUi -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:43 IST" name="setdown" finished-at="2024-11-12T14:14:45 IST" duration-ms="2156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:45 IST" name="setUp" finished-at="2024-11-12T14:14:48 IST" duration-ms="3236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginPgWithEmptyInputs()[pri:2, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:48 IST" name="testLoginPgWithEmptyInputs" finished-at="2024-11-12T14:14:49 IST" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPgWithEmptyInputs -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:49 IST" name="setdown" finished-at="2024-11-12T14:14:51 IST" duration-ms="1752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:51 IST" name="setUp" finished-at="2024-11-12T14:14:54 IST" duration-ms="2932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginPgWithEmptyUserName()[pri:3, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:54 IST" name="testLoginPgWithEmptyUserName" finished-at="2024-11-12T14:14:54 IST" duration-ms="582" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPgWithEmptyUserName -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:54 IST" name="setdown" finished-at="2024-11-12T14:14:55 IST" duration-ms="675" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:55 IST" name="setUp" finished-at="2024-11-12T14:14:56 IST" duration-ms="1425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginPgWithEmptyPassword()[pri:4, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:56 IST" name="testLoginPgWithEmptyPassword" finished-at="2024-11-12T14:14:57 IST" duration-ms="515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPgWithEmptyPassword -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:57 IST" name="setdown" finished-at="2024-11-12T14:14:58 IST" duration-ms="679" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:58 IST" name="setUp" finished-at="2024-11-12T14:14:59 IST" duration-ms="1445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginPgWithInvalidCredentials()[pri:5, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:14:59 IST" name="testLoginPgWithInvalidCredentials" finished-at="2024-11-12T14:15:00 IST" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPgWithInvalidCredentials -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:15:00 IST" name="setdown" finished-at="2024-11-12T14:15:01 IST" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:15:01 IST" name="setUp" finished-at="2024-11-12T14:15:03 IST" duration-ms="1947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginPgWithValidCredentials()[pri:6, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:15:03 IST" name="testLoginPgWithValidCredentials" finished-at="2024-11-12T14:15:03 IST" duration-ms="435" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPgWithValidCredentials -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:LoginPageTest@101952da]" started-at="2024-11-12T14:15:03 IST" name="setdown" finished-at="2024-11-12T14:15:04 IST" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+      </class> <!-- LoginPageTest -->
+      <class name="HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:HomePageTest@50b5ac82]" started-at="2024-11-12T14:14:33 IST" name="setUp" finished-at="2024-11-12T14:14:43 IST" duration-ms="10072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHomepage()[pri:1, instance:HomePageTest@50b5ac82]" started-at="2024-11-12T14:14:43 IST" name="testHomepage" finished-at="2024-11-12T14:14:45 IST" duration-ms="2175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHomepage -->
+        <test-method is-config="true" signature="setdown()[pri:0, instance:HomePageTest@50b5ac82]" started-at="2024-11-12T14:14:45 IST" name="setdown" finished-at="2024-11-12T14:14:48 IST" duration-ms="3346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setdown -->
+      </class> <!-- HomePageTest -->
+    </test> <!-- MoviePage Test -->
+  </suite> <!-- Movie Page Test -->
+</testng-results>
